@@ -47,9 +47,40 @@
 #motorcycles.remove('ducati')
 #print(motorcycles)
 
-motorcycles = ['honda', 'yamaha', 'suzuki', 'ducati']
-print(motorcycles)
-too_expensive = 'ducati'
-motorcycles.remove(too_expensive)
-print(motorcycles)
-print("\nA " + too_expensive.title() + " is too expensive for me.")
+#motorcycles = ['honda', 'yamaha', 'suzuki', 'ducati']
+#print(motorcycles)
+#too_expensive = 'ducati'
+#motorcycles.remove(too_expensive)
+#print(motorcycles)
+#print("\nA " + too_expensive.title() + " is too expensive for me.")
+
+#cars = ['bmw', 'audi', 'toyota', 'subaru']
+#print(cars)
+#cars.sort()
+#print(cars)
+
+#cars = ['bmw', 'audi', 'toyota', 'subaru']
+#print(cars)
+#cars.sort(reverse=True)
+#print(cars)
+
+#cars = ['bmw', 'audi', 'toyota', 'subaru']
+#print("Here is the original list: ") 
+#print(cars)
+#print("\nHere is the sorted list: ")
+#print(sorted(cars)) 
+#print("\nHere is the sorted list reverse: ")
+#print(sorted(cars,reverse=True)) 
+#print("\nHere is the original list again: ") 
+#print(cars)
+
+#cars = ['bmw', 'audi', 'toyota', 'subaru']
+#print("Here is the original list: ") 
+#print(cars)
+#print("\nHere is the list with reverse method: ") 
+#cars.reverse()
+#print(cars)
+
+#cars = ['bmw', 'audi', 'toyota', 'subaru']
+#print(len(cars))
+
