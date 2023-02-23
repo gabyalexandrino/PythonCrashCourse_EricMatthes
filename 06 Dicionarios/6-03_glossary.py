@@ -10,6 +10,16 @@ words = {'and':'returns true if both statements are true',
          'elif':'executar um bloco de código, caso o resultado da expressão informada na instrução if seja falso',
          'else':'realizar a verificação de outra expressão caso a primeira validação seja falsa',
          }
+print("The word 'and' in Python mean: " + words['and'].capitalize() + ".")
+print("The word 'or' in Python mean: " + words['or'].capitalize() + ".")
+print("The word 'not' in Python mean: " + words['not'].capitalize() + ".")
+print("The word 'is' in Python mean: " + words['is'].capitalize() + ".")
+print("The word 'is not' in Python mean: " + words['is not'].capitalize() + ".")
+print("The word 'in' in Python mean: " + words['in'].capitalize() + ".")
+print("The word 'not in' in Python mean: " + words['not in'].capitalize() + ".")
+print("The word 'for' in Python mean: " + words['for'].capitalize() + ".")
+print("The word 'if' in Python mean: " + words['if'].capitalize() + ".")
+print("The word 'elif' in Python mean: " + words['elif'].capitalize() + ".")
+print("The word 'else' in Python mean: " + words['else'].capitalize() + ".")
 
-for word in words:
-    print("\nO significado da palavra '" + word.title() + "' em Python é: " + words[word].capitalize() + ".")
+
